@@ -1,1 +1,7 @@
 hello python
+<<<<<<< HEAD
+=======
+bbbbbbbbbbb
+b
+eeeeee
+>>>>>>> dev
